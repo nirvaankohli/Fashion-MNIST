@@ -1,4 +1,3 @@
-```markdown
 # Fashion-MNIST Classification with Transfer Learning and Advanced Augmentations
 
 ## Overview
